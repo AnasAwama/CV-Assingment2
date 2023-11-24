@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.bg{
+    background-color: #ecfffe;
+    border-bottom: 2px solid rgb(214, 238, 236);;
+}
+
+.info img{
+    height: 210px;
+    width: 200px;
+    border-radius: 50%;
+    border:10px solid #ffffff;
+}
+.info h1{
+    display: inline-block; /* Set display property to inline-block */
+    margin-right: 7px;
+    font-family: 'Raleway', sans-serif;;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 10px;
+}
+#info{
+    font-weight: bolder;
+}
+.place{
+    vertical-align: top;
+    text-align: right;
+    
+}
